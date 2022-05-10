@@ -1,4 +1,4 @@
-a_file = open()
+a_file = open("narrative.txt")
 file_contents = a_file.read()
 
-print(file.contents)
+print(file_contents)
