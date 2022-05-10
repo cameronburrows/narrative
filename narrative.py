@@ -1,4 +1,4 @@
-a_file = open("fdr_inaugural_address.txt")
+a_file = open()
 file_contents = a_file.read()
 
 print(file.contents)
