@@ -1,4 +1,4 @@
-a_file = open("narrative.txt")
-file_contents = a_file.read()
+file = open('narrative.burrows.txt', 'r')
+f = file.readlines()
 
-print(file_contents)
+print(f)
